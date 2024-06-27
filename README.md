@@ -11,12 +11,12 @@ Applying various Fliters ,Dataset in format of cvs file,DAX and Tools we created
 
 Steps invovled:
 
-#1 : Import the Data "Get Data"
-#2 : Clean the Data
-#3 : Model data
-#4 : Build Visuals
-#5 : Create Dashboard
-#6 : Share your dashboard
+Step 1 : Import the Data "Get Data"
+Step 2 : Clean the Data
+Step 3 : Model data
+Step 4 : Build Visuals
+Step 5 : Create Dashboard
+Step 6 : Share your dashboard
 
 ![Screenshot 2024-06-27 183954](https://github.com/sejal-firake/Data-Visualization-/assets/146855178/eee8de94-be27-4be2-87b4-c6fcf6d7c4ce)
 
