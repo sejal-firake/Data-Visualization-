@@ -7,7 +7,7 @@ Using Microsoft PowerBI tool we created a dashboard for Data insights
 This Data Visualization insights the sales and profit of company which consists of various attributes i.e 
 Row ID,	Order ID,	Order Date,	Ship Date,	Ship ,Mode,	Customer ID,	Customer Name,	Segment	Country,	City,	State,	Region,	Product ID,	Category,	Sub-Category,	Product Name,	Sales,	Quantity,	Profit,	Returns, Payment Mode,Avgdelivery.
 
-Applying various Fliters ,Dataset in format of cvs file,Tools we created a dynamic dashboard
+Applying various Fliters ,Dataset in format of cvs file,DAX and Tools we created a dynamic dashboard
 
 Steps invovled:
 
